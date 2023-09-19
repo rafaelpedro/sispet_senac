@@ -12,6 +12,4 @@ public interface AnimalRepositorio extends JpaRepository<Animal, Long> {
 
     List<Animal> searchByNome(String nome);
 
-    //@Query("select c from Animal c where lower(c.nome) like lower(concat(:termo, '%')) or lower(c.nomeResponsavel) like ..."
-    //List<Animal> searchByNomeResponsavel(@Param("termo") String termoBusca);
 }
