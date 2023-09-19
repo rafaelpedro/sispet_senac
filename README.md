@@ -16,5 +16,5 @@ API para controle do cadastro dos clientes e serviços disponibilizados pelos pe
 
 ## Funcionalidades
 
-A api conta com endpoints para da tabela de Animais e Agendamentos, para ser consumida por um frontend.
+A api conta com endpoints para da tabela de Animais, para ser consumida por um frontend.
 Podendo realizar operações GET POST DELETE PUT, com os dados dos animais e dados de agendamento de serviços de um petshop.
