@@ -6,6 +6,9 @@ Projeto desenvolvido na matéria de Padrões de Projeto, Frameworks e APIs.
 
  - Aluno: Rafael Alencar Pedro
 
+## Swagger access
+
+http://localhost:8080/swagger-ui/index.html
 
 ## API Implementada
 
