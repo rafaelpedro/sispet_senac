@@ -1,6 +1,6 @@
 # SISPET
 
-Projeto desenvolvido na matéria de Padrões de Projeto, Frameworks e APIs.
+Projeto desenvolvido na faculdade Senac
 
 ## Membros da Equipe 
 
